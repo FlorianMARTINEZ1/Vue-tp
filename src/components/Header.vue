@@ -4,9 +4,9 @@
       <div class="nav-wrapper">
         <a href="/#/" class="brand-logo"><img src="../assets/logo.png" /></a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
-          <li><a href="https://vigilant-murdock-28ea5a.netlify.app/login">Connexion</a></li>
-          <li><a href="https://vigilant-murdock-28ea5a.netlify.app/newAccount">Créer compte</a></li>
-          <li><a href="https://vigilant-murdock-28ea5a.netlify.app/newArticle">Créer article</a></li>
+          <li><a href="https://florianmartinezvuetp.netlify.app/login">Connexion</a></li>
+          <li><a href="https://florianmartinezvuetp.netlify.app/newAccount">Créer compte</a></li>
+          <li><a href="https://florianmartinezvuetp.netlify.app/newArticle">Créer article</a></li>
         </ul>
       </div>
     </nav>
