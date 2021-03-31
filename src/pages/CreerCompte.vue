@@ -35,7 +35,7 @@ export default {
           "Content-Type": "application/x-www-form-urlencoded",
         },
       })
-        .then((response) => window.alert("Compte créé"))
+        .then((response) => (console.log(response))(window.alert("Compte créé")))
         .catch((error) => {
           console.error("There was an error!", error);
         });
