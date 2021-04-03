@@ -11,7 +11,7 @@
         <div class="row">
           <div class="col s4">
             <a
-              :href="`https://qryc2.csb.app/#/detail/${article._id}`"
+              :href="`https://florianmartinezvuetp.netlify.app/#/detail/${article._id}`"
               class="waves-effect waves-light btn-small"
               >details</a
             >
@@ -25,7 +25,7 @@
           </div>
           <div class="col s4">
             <a
-              :href="`https://qryc2.csb.app/#/update/${article._id}`"
+              :href="`https://florianmartinezvuetp.netlify.app/#/update/${article._id}`"
               class="waves-effect waves-light btn-small"
               >Modifier</a
             >
